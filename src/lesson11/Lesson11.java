@@ -1,4 +1,10 @@
 package lesson11;
+/**
+ * AIT-TR, Cohoirt 42.1, Java Basic, HW #12
+ *
+ * @author Valerian
+ * @version ?-Feb-34
+ */
 
 import java.util.Random;
 import java.util.Scanner;

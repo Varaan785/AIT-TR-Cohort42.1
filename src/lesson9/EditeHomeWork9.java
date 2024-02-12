@@ -3,7 +3,7 @@ package lesson9;
 import java.util.Arrays;
 
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #5
+ * AIT-TR cohort 42-1, Java Basic, hw #9
  * @autor Valerian
  * @version 6.Feb.2024
  */
@@ -28,20 +28,20 @@ public class EditeHomeWork9 {
 
     }
 
-    static void task1(int n) {
+    public static void task1(int n) {
         for (int i = 1; i <= n; i++) {
             System.out.println("Task" + i);
         }
     }
 
-    static void printArray(int[] a) {
+    public static void printArray(int[] a) {
         for (int i = a.length - 1; i > -1; i--) {
             System.out.print(a[i] + " ");
         }
         System.out.println();
     }
 
-    static void printArray(int[] a, boolean reverseDirection) {
+    public static void printArray(int[] a, boolean reverseDirection) {
         if (reverseDirection) {
             printArray(a);
         } else {
@@ -52,7 +52,7 @@ public class EditeHomeWork9 {
         }
     }
 
-    static double[] calculateArray(int[] a) {
+    public static double[] calculateArray(int[] a) {
         int max = a[0];
         int min = a[0];
         double sum = 0;
