@@ -8,19 +8,15 @@ package lesson15;
 public class Lesson15 {
     public static void main(String[] args) {
         int a = 10;
-        Cat cat = new Cat();
-        cat.name = "Murzik";
-        cat.color= "white";
-        cat.age = 3;
+        Cat cat = new Cat();  // ("Murzik", "white", 3);
         cat.voice();
         System.out.println(cat.name + " ," + cat.color + " ," + cat.age);
 
-        Cat cat1 = new Cat();
-        cat1.name = "Barsik";
-        cat1.color= "black";
-        cat1.age = 5;
+        Cat cat1 = new Cat("Barsik", "black" , 5 , 10);
         cat1.voice();
         System.out.println(cat1.name + " ," + cat1.color + " ," + cat1.age);
+        cat1.eat(5);
+        System.out.println(cat1.satiated());
 
     }
 }
