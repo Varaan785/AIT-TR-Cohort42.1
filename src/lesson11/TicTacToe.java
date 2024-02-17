@@ -1,13 +1,14 @@
 package lesson11;
-
+/**
+ * AIT-TR, cohort 42.1, Java Basic, Lesson #11
+ * TicTacToe
+ * @aoutor Valerian
+ * @version 7-Feb-24
+ */
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * AIT-TR, cohort 42.1, Java Basic, Lesson #11
- *
- * @version 7-Feb-24
- */
+
 public class TicTacToe {
 
     static char[][] table = new char[3][3];

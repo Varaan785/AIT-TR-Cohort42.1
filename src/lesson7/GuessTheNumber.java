@@ -1,13 +1,14 @@
 package lesson7;
-
-import java.util.Random;
-import java.util.Scanner;
-
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #5
+ * AIT-TR cohort 42-1, Java Basic, Lesson #7
+ * GuessTheNumber
  * @autor Valerian
  * @version 3.Feb.2024
  */
+import java.util.Random;
+import java.util.Scanner;
+
+
 
 public class GuessTheNumber {
     public static void main(String[] args) {

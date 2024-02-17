@@ -1,14 +1,15 @@
 package lesson7;
+/**
+ * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #7
+ *
+ * @author Valerian
+ * @version 29-Jan-2024
+ */
 
 import java.util.Random;
 import java.util.Scanner;
 import java.util.SortedMap;
 
-/**
- * AIT-TR, cohort 42.1, Java Basic, Lesson #7
- *
- * @version 26-Jan-24
- */
 
 public class Lesson7 {
     public static void main(String[] args) {

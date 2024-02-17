@@ -1,13 +1,13 @@
 package lesson12;
-
-import java.util.Arrays;
-
 /**
  * AIT-TR, Java Basic, Cohort42.1, Lesson#12
- *
+ * Stack
  * @author Valerian
  * @version 12.-Feb.24
  */
+import java.util.Arrays;
+
+
 public class Stack {
     static int[] stack = new int[10];
     static int idx = 0;

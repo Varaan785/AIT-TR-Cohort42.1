@@ -1,12 +1,11 @@
 package lesson5;
-
-import java.util.Random;
-
 /**
  * AIT-TR cohort 42-1, Java Basic, hw #5
  * @autor Valerian
  * @version 28.Jan.2024
  */
+import java.util.Random;
+
 public class EditedHomeWork5 {
     public static void main(String[] args) {
         // task #1

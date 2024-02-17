@@ -1,6 +1,6 @@
 package lesson1;
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #6
+ * AIT-TR cohort 42-1, Java Basic, hw #1
  * @autor Valerian
  * @version 31.Jan.24
  */

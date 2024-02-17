@@ -1,13 +1,13 @@
 package lesson7;
-
-import java.util.Random;
-import java.util.Scanner;
-
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #5
+ * AIT-TR cohort 42-1, Java Basic, hw #7
  * @autor Valerian
  * @version 3.Feb.2024
  */
+import java.util.Random;
+import java.util.Scanner;
+
+
 
 public class EditedHomeWork7 {
     public static void main(String[] args) {

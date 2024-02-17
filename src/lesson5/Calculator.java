@@ -1,4 +1,10 @@
 package lesson5;
+/**
+ * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #5
+ * Calculator
+ * @author Valerian
+ * @version 24-Jan-2024
+ */
 
 import java.util.Scanner;
 

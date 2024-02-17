@@ -1,4 +1,10 @@
 package lesson6;
+/**
+ * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #6
+ * Mortgages
+ * @author Valerian
+ * @version 26-Jan-2024
+ */
 
 public class Mortgages {
     public static void main(String[] args) {

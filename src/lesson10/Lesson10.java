@@ -1,8 +1,9 @@
 package lesson10;
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #6
- * @autor Valerian
- * @version 5.Feb.24
+ * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #10
+ *
+ * @author Valerian
+ * @version 5-Feb-2024
  */
 
 public class Lesson10 {

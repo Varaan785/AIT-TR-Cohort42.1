@@ -1,9 +1,9 @@
 package lesson3;
-
 /**
- * @AIT-TR Cohort42.1 lesson3
+ * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #3
+ *
  * @author Valerian
- * @version 2022-01-22
+ * @version 19-Jan-2024
  */
 
 public class Lesson3 {

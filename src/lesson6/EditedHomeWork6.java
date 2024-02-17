@@ -1,12 +1,12 @@
 package lesson6;
-
-import java.util.Scanner;
-
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #5
+ * AIT-TR cohort 42-1, Java Basic, hw #6
  * @autor Valerian
  * @version 3.Feb.2024
  */
+import java.util.Scanner;
+
+
 
 public class EditedHomeWork6 {
     public static void main(String[] args) {

@@ -1,13 +1,13 @@
 package lesson8;
-
-import java.util.Arrays;
-import java.util.Random;
-
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #5
+ * AIT-TR cohort 42-1, Java Basic, hw #8
  * @autor Valerian
  * @version 6.Feb.2024
  */
+import java.util.Arrays;
+import java.util.Random;
+
+
 
 public class EditedHomeWork8 {
     public static void main(String[] args) {

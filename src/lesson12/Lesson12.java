@@ -1,8 +1,9 @@
 package lesson12;
 /**
- * AIT-TR, cohort 42.1, Java Basic, Lesson #12
+ * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #12
  *
- * @version 9-Feb-24
+ * @author Valerian
+ * @version 9-Feb-2024
  */
 
 import java.util.Arrays;

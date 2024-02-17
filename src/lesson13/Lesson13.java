@@ -1,13 +1,14 @@
 package lesson13;
+/**
+ * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #13
+ *
+ * @author Valerian
+ * @version 12-Feb-2024
+ */
 
 import lesson9.EditeHomeWork9;
 
-/**
- * AIT-TR, Cohort 42.1, Java Basic, HW #13
- *
- * @author Valerian
- * @version 12-Feb-34
- */
+
 
 public class Lesson13 {
     public static void main(String[] args) {

@@ -1,13 +1,14 @@
 package lesson7;
+/**
+ * AIT-TR cohort 42-1, Java Basic, Lesson #7
+ * CanonnShot
+ * @autor Valerian
+ * @version 29.Jan.24
+ */
 
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * AIT-TR cohort 42-1, Java Basic, hw #6
- * @autor Valerian
- * @version 28.Jan.24
- */
 
 public class CanonnShot {
     public static void main(String[] args) {

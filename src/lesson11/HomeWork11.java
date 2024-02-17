@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * AIT-TR, Cohoirt 42.1, Java Basic, HW #12
+ * AIT-TR, Cohoirt 42.1, Java Basic, HW #11
  *
  * @author Valerian
  * @version 10-Feb-34

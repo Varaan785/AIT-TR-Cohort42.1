@@ -1,10 +1,10 @@
 package lesson9;
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #6
- * @autor Valerian
- * @version 2.Feb.24
+ * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #9
+ *
+ * @author Valerian
+ * @version 2-Feb-2024
  */
-
 public class Lesson9 {
     public static void main(String[] args) {
         int[] arr = {3, 5, 8, 2, 1};

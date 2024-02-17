@@ -1,4 +1,9 @@
 package lesson8;
+/**
+ * AIT-TR cohort 42-1, Java Basic, hw #8
+ * @autor Valerian
+ * @version 6.Feb.2024
+ */
 
 import java.util.Arrays;
 
