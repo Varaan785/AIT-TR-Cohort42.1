@@ -1,4 +1,10 @@
 package lesson15;
+/**
+ * AIT-TR, Cohort 42.1, Java Basic, Lesson #15
+ * Cat
+ * @author Valerian
+ * @version 16-Feb-34
+ */
 
 public class Cat {
     String name;
