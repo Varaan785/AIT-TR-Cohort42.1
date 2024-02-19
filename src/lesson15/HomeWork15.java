@@ -1,4 +1,10 @@
 package lesson15;
+/**
+ * AIT-TR, Cohort 42.1, Java Basic, hw #15
+ * 
+ * @author Valerian
+ * @version 18-Feb-34
+ */
 
 
 import java.util.Scanner;
