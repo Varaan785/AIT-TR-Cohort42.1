@@ -8,8 +8,20 @@ package lesson15;
 
 public class Car {
     String brand, color;
-    int volume, speed;
+    int tank, power, distance, petrol,consumption;
 
+    public Car(String brand, String color, int volume) {
+        this.brand = brand;
+        this.color = color;
+        this.tank = volume;
+        this.power = power;
+        this.consumption = 10;
+        this.distance = distance;
+        this.petrol = petrol;
+    }
+    public void drive() {
 
-
+    }
 }
+
+
