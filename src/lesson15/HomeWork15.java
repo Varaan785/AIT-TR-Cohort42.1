@@ -53,7 +53,7 @@ public class HomeWork15 {
         System.out.println("Cat is DEAD");
 
         //taskCar
-        System.out.println("task Car");
+        System.out.println("task #Car");
         double fuelLevel = 30.0;
         System.out.println("Car starten...");
         if (fuelLevel > 0) {
