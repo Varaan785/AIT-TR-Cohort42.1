@@ -1,7 +1,7 @@
 package lesson15;
 /**
  * AIT-TR, Cohort 42.1, Java Basic, hw #15
- * 
+ *
  * @author Valerian
  * @version 18-Feb-34
  */
@@ -53,6 +53,7 @@ public class HomeWork15 {
         System.out.println("Cat is DEAD");
 
         //taskCar
+        System.out.println("task Car");
         double fuelLevel = 30.0;
         System.out.println("Car starten...");
         if (fuelLevel > 0) {
