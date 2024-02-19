@@ -14,7 +14,7 @@ public class HomeWork15 {
     public static void main(String[] args) {
 
         //task Cat
-        System.out.println("task #Car");
+        System.out.println("task #Cat");
         Scanner scanner = new Scanner(System.in);
         CatHW myCat = new CatHW("Bagira", "Orange", 2, 100 );
         System.out.println("My name is " + myCat.name + " color ," + myCat.color + "my age is ," + myCat.age + "My Energy :" + myCat.energyLevel);
