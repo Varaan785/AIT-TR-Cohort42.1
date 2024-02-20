@@ -8,13 +8,17 @@ package lesson15;
 
 public class CatHW {
     String name, color;
-    int age, energyLevel;
+    int age, energyLevel,eat,play,run,walk;
 
     public CatHW(String name, String color, int age, int initialEnergy) {
         this.name = name;
         this.color = color;
         this.age = age;
         this.energyLevel = initialEnergy;
+        this.eat = eat;
+        this.play = play;
+        this.run = run;
+        this.walk = walk;
     }
 
     public void eat() {
