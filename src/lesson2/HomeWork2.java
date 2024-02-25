@@ -6,11 +6,26 @@ package lesson2;
  */
 
 public class HomeWork2 {
-    // task #3
-//    public static void main(String[] args) {
-//        System.out.println();
     public static void main(String[] args) {
-        System.out.println();
+
+        //task #1
+        System.out.println("task #1");
+        System.out.println("JDK, Intellij IDEA Community Edition, GUI (Github Desktop)   : Redy");
+
+        // #2
+        System.out.println("task #2");
+        System.out.println("Rady");
+
+        // #3
+        System.out.println("task #3");
+        System.out.println("Rady");
+
+        //task #4
+        System.out.println("task #4");
+        System.out.println("Rady");
+
+
     }
-    }
+}
+
 

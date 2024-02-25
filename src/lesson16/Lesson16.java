@@ -6,7 +6,7 @@ package lesson16;
  * @version 19-Feb-34
  */
 
-public class Lesson16 {
+public class    Lesson16 {
     public static void main(String[] args) {
         CatL16 cat = new CatL16(30);
         Plate plate = new Plate(50);

@@ -2,9 +2,6 @@ package lesson16;
 
 public class CatL16 {
     int maxVolume;
-
-
-
     int raelVolume;
 
 
