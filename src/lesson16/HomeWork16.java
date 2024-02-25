@@ -1,4 +1,10 @@
 package lesson16;
+/**
+ * AIT-TR, Cohort 42.1, Java Basic, hw #16
+ *
+ * @author Valerian
+ * @version 18-Feb-34
+ */
 
 public class HomeWork16 {
     public static void main(String[] args) {

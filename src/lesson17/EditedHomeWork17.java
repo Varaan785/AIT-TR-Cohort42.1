@@ -1,4 +1,10 @@
 package lesson17;
+/**
+ * AIT-TR, Cohort 42.1, Java Basic, hw #17
+ *
+ * @author Valerian
+ * @version 20-Feb-34
+ */
 
 public class EditedHomeWork17 {
     public static void main(String[] args) {
