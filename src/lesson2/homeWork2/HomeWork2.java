@@ -1,4 +1,4 @@
-package lesson2;
+package lesson2.homeWork2;
 /**
  * AIT-TR cohort 42-1, Java Basic, hw #2
  * @autor Valerian

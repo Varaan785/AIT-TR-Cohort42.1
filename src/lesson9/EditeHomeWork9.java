@@ -27,7 +27,7 @@ public class EditeHomeWork9 {
 
 
     }
-
+// task #1
     public static void task1(int n) {
         for (int i = 1; i <= n; i++) {
             System.out.println("Task" + i);

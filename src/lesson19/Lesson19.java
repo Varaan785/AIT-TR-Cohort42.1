@@ -1,4 +1,10 @@
 package lesson19;
+/**
+ * AIT-TR, Cohort 42.1, Java Basic, Lesson #19
+ *
+ * @author Valerian
+ * @version 26-Feb-34
+ */
 
 public class Lesson19 {
     public static void main(String[] args) {

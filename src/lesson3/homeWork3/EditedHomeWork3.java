@@ -1,10 +1,11 @@
-package lesson3;
+package lesson3.homeWork3;
 /**
  * AIT-TR cohort 42-1, Java Basic, hw #3
  * @autor Valerian
  * @version 21.Jan.2024
  */
-public class dHomeWork3 {
+
+public class EditedHomeWork3 {
     public static void main(String[] args) {
         // task #1
         System.out.println("task #1");

@@ -1,4 +1,4 @@
-package lesson4;
+package lesson4.homeork4;
 /**
  * AIT-TR cohort 42-1, Java Basic, hw #4
  * @autor Valerian
