@@ -1,4 +1,4 @@
-package consultation;
+package extend;
 
 import java.util.Scanner;
 
