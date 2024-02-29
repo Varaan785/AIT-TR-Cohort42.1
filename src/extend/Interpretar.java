@@ -2,7 +2,7 @@ package extend;
 
 import java.util.Scanner;
 
-public class Interpretaer {
+public class Interpretar {
 
 
     static int[] values = new int[26];
