@@ -1,10 +1,10 @@
 package lesson25.homework;
 
 public class Person {
-    public int run() {
-        return 10;
+    public String run() {
+        return "10 km";
     }
-    public int repose() {
-        return 15;
+    public String repose() {
+        return " 15 min";
     }
 }

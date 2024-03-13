@@ -2,12 +2,12 @@ package lesson25.homework;
 
 public class AmateurAthlete extends Person {
     @Override
-    public int run() {
-        return 15;
+    public String run() {
+        return "15 km";
     }
 
     @Override
-    public int repose() {
-        return 10;
+    public String repose() {
+        return "10 min";
     }
 }
