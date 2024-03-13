@@ -18,6 +18,7 @@ public class HomeWork25 {
         System.out.println("Prof. Athlete:   " + professionalAthlete.run() + " needs to repose" + professionalAthlete.repose());
 
         // task #2
+        System.out.println();
         System.out.println("task #2");
         
     }
