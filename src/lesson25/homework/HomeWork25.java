@@ -11,11 +11,11 @@ public class HomeWork25 {
 
         // task #1
         System.out.println("task #1");
-        System.out.println("Person:          " + person.run() + " needs to repose" + person.repose());
-        AmateurAthlete amateurAthlete = new AmateurAthlete();
-        System.out.println("Amateur Athlete: " + amateurAthlete.run() + " needs to repose " + amateurAthlete.repose());
-        ProfessionalAthlete professionalAthlete = new ProfessionalAthlete();
-        System.out.println("Prof. Athlete:   " + professionalAthlete.run() + " needs to repose" + professionalAthlete.repose());
+        Person[] person1 =  {new AmateurAthlete(), new ProfessionalAthlete()};
+        for (Person a : person1) {
+            System.out.println(a.run() + a.repose());
+        }
+
 
         // task #2
         System.out.println();
