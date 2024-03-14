@@ -1,20 +1,12 @@
 package lesson23.homework;
 
-import java.util.ArrayList;
-import java.util.List;
 
-public class ToWareHouse {
-    private int id;
-    private List<ProductAndCount> products;
+public class ToWareHouse extends BaseDocument{
 
     public ToWareHouse(int id) {
-        this.id = id;
-        this.products = new ArrayList<>();
+        super(id);
     }
 
-    public void add(Product product, int count) {
-        products.add(new ProductAndCount(product, count));
-    }
     public void toWarehouse(WareHouse wareHouse) {
         wareHouse.addAll(products);
     }
