@@ -1,4 +1,10 @@
 package lesson5;
+/**
+ * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #5
+ * Ex5
+ * @author Valerian
+ * @version 23-Jan-2024
+ */
 
 public class Ex5 {
     public static void main(String[] args) {
