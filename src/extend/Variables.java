@@ -51,4 +51,3 @@ public class Variables {
         return true;
     }
 }
-
