@@ -17,7 +17,7 @@ public class EditedHomeWork5 {
         System.out.println(" Number " + n + " div by 2: " + a + ", div by 3: " + b + ", dib by 2 and div by3: " + c);
 
         // task #2
-        System.out.println("ask #2");
+        System.out.println("task #2");
         n = 3;
         if (n == 1) {
             System.out.println("One");
@@ -30,6 +30,7 @@ public class EditedHomeWork5 {
         }
 
         // task #3
+        System.out.println("task #3");
         Random random = new Random();
         int n1 = random.nextInt(101);
         int n2 = random.nextInt(101);
@@ -41,6 +42,7 @@ public class EditedHomeWork5 {
         System.out.println(n1 + "," + n2 + "," + n3 + "," + n4 + ", max:" + max);
 
         // task #4
+        System.out.println("task #4");
         String str = "4381";
         if (str.length() == 4) {
             n1 = str.charAt(0) - '0';

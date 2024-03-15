@@ -2,7 +2,7 @@ package lesson3.homeWork3;
 /**
  * AIT-TR cohort 42-1, Java Basic, hw #3
  * @autor Valerian
- * @version 21.Jan.2024
+ * @version 22.Jan.2024
  */
 
 public class EditedHomeWork3 {
