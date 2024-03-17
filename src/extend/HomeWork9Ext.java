@@ -1,5 +1,9 @@
 package extend;
-
+/**
+ * AIT-TR, cohort 42.1, Java Basic, hw #9 ext
+ *
+ * @version 9-Feb-2024
+ */
 import java.util.Arrays;
 
 public class HomeWork9Ext {
