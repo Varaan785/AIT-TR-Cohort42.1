@@ -12,19 +12,19 @@ public class Lesson18 {
         a = 10;
         //a = 5 + 1; compile error
 
-        System.out.println(Robot.COMPANY_NAME);
+        System.out.println(RobotL18.COMPANY_NAME);
 
-        Robot robot = new Robot(8);
+        RobotL18 robot = new RobotL18(8);
         System.out.println(robot);
-        System.out.println(Robot.getCount());
-        System.out.println(Robot.add(2, 2));
+        System.out.println(RobotL18.getCount());
+        System.out.println(RobotL18.add(2, 2));
         robot.addAndSave(5);
         robot.addAndSave(12);
         System.out.println(robot.getSum());
 
-        Robot r2d2 = new Robot(2);
+        RobotL18 r2d2 = new RobotL18(2);
         System.out.println(r2d2);
-        System.out.println(Robot.getCount());
+        System.out.println(RobotL18.getCount());
         System.out.println(r2d2.getSum());
     }
 }

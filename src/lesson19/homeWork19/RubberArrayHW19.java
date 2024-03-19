@@ -1,7 +1,7 @@
 package lesson19.homeWork19;
 /**
  * AIT-TR, Cohoirt 42.1, Java Basic, HW #19
- * RubberArray
+ * RubberArrayHW19
  * @author Valerian
  * @version 28-Feb-34
  */

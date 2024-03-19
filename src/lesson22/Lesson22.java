@@ -1,4 +1,9 @@
-package lesson22;
+package lesson22;/**
+ * AIT-TR, Cohort 42.1, Java Basic, Lesson #22
+ *
+ * @author Valerian
+ * @version 4-Mar-34
+ */
 
 public class Lesson22 {
     public static void main(String[] args) {

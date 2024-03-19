@@ -7,7 +7,7 @@ package lesson18;
  */
 
 
-public class Robot {
+public class RobotL18 {
 
     public static final String COMPANY_NAME = "Boston Dynamics";
 
@@ -16,7 +16,7 @@ public class Robot {
 
     private static int count;
 
-    public Robot(int countPU) {
+    public RobotL18(int countPU) {
         this.countCPU = countPU;
         this.sum = 0;
         count++;

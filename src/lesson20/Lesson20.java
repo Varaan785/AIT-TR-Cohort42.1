@@ -7,4 +7,7 @@ package lesson20;
  */
 
 public class Lesson20 {
+    public static void main(String[] args) {
+        System.out.println("Repetition of what has been covered");
+    }
 }

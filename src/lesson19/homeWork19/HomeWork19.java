@@ -1,4 +1,5 @@
-package lesson19.homeWork19;/**
+package lesson19.homeWork19;
+/**
  * AIT-TR, Cohoirt 42.1, Java Basic, HW #19
  *
  * @author Valerian

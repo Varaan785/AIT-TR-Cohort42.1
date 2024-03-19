@@ -1,12 +1,18 @@
 package lesson19;
+/**
+ * AIT-TR, Cohort 42.1, Java Basic, Lesson #19
+ *
+ * @author Valerian
+ * @version 26-Feb-34
+ */
 
-public class RubberArray {
+public class RubberArrayL19 {
     private final int INIT_DATA_SIZE = 10;
     private final float RESIZE_KOEF = 1.5f;
     private int[] data;
     private int length;
 
-    public RubberArray() {
+    public RubberArrayL19() {
         data = new int[INIT_DATA_SIZE];
         length = 0;
     }

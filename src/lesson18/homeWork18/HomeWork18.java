@@ -12,8 +12,8 @@ public class HomeWork18 {
 
         //task #1
         System.out.println("task #1");
-        Simple s1 = new Simple();
-        System.out.println(Simple.getCount());
-        Simple.out.println(Simple.getCount());
+        SimpleHW18 s1 = new SimpleHW18();
+        System.out.println(SimpleHW18.getCount());
+        SimpleHW18.out.println(SimpleHW18.getCount());
     }
 }

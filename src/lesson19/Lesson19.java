@@ -8,7 +8,7 @@ package lesson19;
 
 public class Lesson19 {
     public static void main(String[] args) {
-        RubberArray ra = new RubberArray();
+        RubberArrayL19 ra = new RubberArrayL19();
         ra.add(8);
         ra.add(12);
         ra.add(-1);
