@@ -1,4 +1,5 @@
-package lesson22;/**
+package lesson22;
+/**
  * AIT-TR, Cohort 42.1, Java Basic, Lesson #22
  *
  * @author Valerian
@@ -7,16 +8,15 @@ package lesson22;/**
 
 public class Lesson22 {
     public static void main(String[] args) {
-        Horse horse = new Horse("Tunder");
-        System.out.println(horse);
-        horse.run();
-        horse.walk();
+        HorseL22 horseL22 = new HorseL22("Tunder");
+        System.out.println(horseL22);
+        horseL22.run();
+        horseL22.walk();
 
-        Pegas pegas = new Pegas("Pegas");
+        PegasL22 pegas = new PegasL22("Pegas");
         System.out.println(pegas);
         pegas.run();
         pegas.walk();
         pegas.fly();
-
     }
 }
