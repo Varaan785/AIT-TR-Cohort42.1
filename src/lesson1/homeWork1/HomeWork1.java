@@ -1,8 +1,9 @@
 package lesson1.homeWork1;
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #1
- * @autor Valerian
- * @version 31.Jan.24
+ * AIT-TR, Cohoirt 42.1, Java Basic, HW #1
+ *
+ * @author Valerian
+ * @version 31.-Jan-24
  */
 
 public class HomeWork1 {
