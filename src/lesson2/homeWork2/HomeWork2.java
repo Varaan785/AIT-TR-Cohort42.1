@@ -1,10 +1,10 @@
 package lesson2.homeWork2;
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #2
- * @autor Valerian
- * @version 28.Jan.24
+ * AIT-TR, Cohort 42.1, Java Basic, HW #2
+ *
+ * @author Valerian
+ * @version 28-Jan-24
  */
-
 public class HomeWork2 {
     public static void main(String[] args) {
 
