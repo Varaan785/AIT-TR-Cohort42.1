@@ -1,10 +1,10 @@
 package lesson4.homeork4;
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #4
- * @autor Valerian
- * @version 23.Jan.24
+ * AIT-TR, Cohort 42.1, Java Basic, HW #4
+ *
+ * @author Valerian
+ * @version 23-Jan-24
  */
-
 import java.util.Scanner;
 
 public class HomeWork4 {

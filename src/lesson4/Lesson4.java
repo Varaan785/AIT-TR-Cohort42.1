@@ -1,6 +1,6 @@
 package lesson4;
 /**
- * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #4
+ * AIT-TR, Cohort 42.1, Java Basic, Lesson #4
  *
  * @author Valerian
  * @version 22-Jan-2024

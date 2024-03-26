@@ -1,8 +1,9 @@
 package lesson5.homework;
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #5
- * @autor Valerian
- * @version 28.Jan.2024
+ * AIT-TR, Cohort 42.1, Java Basic, HW #5
+ *
+ * @author Valerian
+ * @version 28-Jan-24
  */
 import java.util.Random;
 

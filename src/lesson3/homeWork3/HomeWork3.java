@@ -1,8 +1,9 @@
 package lesson3.homeWork3;
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #3
- * @autor Valerian
- * @version 21.Jan.2024
+ * AIT-TR, Cohort 42.1, Java Basic, HW #3
+ *
+ * @author Valerian
+ * @version 21-Jan-24
  */
 
 public class HomeWork3{
