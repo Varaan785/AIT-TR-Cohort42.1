@@ -2,7 +2,7 @@ package lesson6;
 
 import java.util.Scanner;
 /**
- * AIT-TR, Cohoirt 42.1, Java Basic, Lesson #6
+ * AIT-TR, Cohort 42.1, Java Basic, Lesson #6
  *
  * @author Valerian
  * @version 26-Jan-2024

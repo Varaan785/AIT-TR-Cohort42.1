@@ -1,10 +1,10 @@
-package lesson6;
+package lesson6.homework;
 /**
- * AIT-TR cohort 42-1, Java Basic, hw #6
- * @autor Valerian
- * @version 28.Jan.24
+ * AIT-TR, Cohort 42.1, Java Basic, HW #6
+ *
+ * @author Valerian
+ * @version 28-Jan-24
  */
-
 import java.util.Scanner;
 
 
